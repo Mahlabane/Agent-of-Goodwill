@@ -2,127 +2,127 @@
 const products = [
     {
       id: 1,
-      name: "NIKE AIR",
+      name: "1. NIKE AIR",
       price: 1300.00,
       image: "image 1.jpg"
     },
     {
       id: 2,
-      name: "NIKE AIR",
+      name: "2. NIKE AIR",
       price: 1300.00,
       image: "image 2.jpg"
     },
     {
       id: 3,
-      name: "NIKE AIR",
+      name: "3. NIKE AIR",
       price: 1299.99,
       image: "image 3.jpg"
     },
     {
       id: 4,
-      name: "NIKE AIR",
+      name: "4. NIKE AIR",
       price: 1300.00,
       image: "image 4.jpg"
     },
     {
       id: 5,
-      name: "NIKE AIR",
+      name: "5. NIKE AIR",
       price: 1300.00,
       image: "image 5.jpg"
     },
     {
       id: 6,
-      name: "NIKE AIR",
+      name: "6. NIKE AIR",
       price: 1300.00,
       image: "image 6.jpg"
     },
     {
       id: 7,
-      name: "NIKE AIR",
+      name: "7. NIKE AIR",
       price: 1300.00,
       image: "image 7.jpg"
     },
     {
       id: 8,
-      name: "NIKE AIR",
+      name: "8. NIKE AIR",
       price: 1300.00,
       image: "image 8.jpg"
     },
     {
       id: 9,
-      name: "NIKE",
+      name: "9. NIKE",
       price: 1300.00,
       image: "image 9.jpg"
     },
     {
       id: 10,
-      name: "NIKE",
+      name: "10. NIKE",
       price: 1300.00,
       image: "image 10.jpg"
     },
     {
       id: 11,
-      name: "NIKE",
+      name: "11. NIKE",
       price: 1099.99,
       image: "image 11.jpg"
     },
     {
       id: 12,
-      name: "JORDAN NIKE",
+      name: "1. JORDAN NIKE",
       price: 1300.00,
       image: "image 2-1.jpg"
     },
     {
       id: 13,
-      name: "JORDAN NIKE",
+      name: "2. JORDAN NIKE",
       price: 1300.00,
       image: "image 2-2.jpg"
     },
     {
       id: 14,
-      name: "JORDAN NIKE",
+      name: "3. JORDAN NIKE",
       price: 1300.00,
       image: "image 2-3.jpg"
     },
     {
       id: 15,
-      name: "JORDAN NIKE",
+      name: "4. JORDAN NIKE",
       price: 1300.00,
       image: "image 2-4.jpg"
     },
     {
       id: 16,
-      name: "JORDAN NIKE",
+      name: "5. JORDAN NIKE",
       price: 1300.00,
       image: "image 2-5.jpg"
     },
     {
       id: 17,
-      name: "JORDAN NIKE",
+      name: "6. JORDAN NIKE",
       price: 1300.00,
       image: "image 2-6.jpg"
     },
     {
       id: 18,
-      name: "JORDAN NIKE",
+      name: "7. JORDAN NIKE",
       price: 1300.00,
       image: "image 2-7.jpg"
     },
     {
       id: 19,
-      name: "JORDAN NIKE",
+      name: "8. JORDAN NIKE",
       price: 1300.00,
       image: "image 2-8.jpg"
     },
     {
       id: 20,
-      name: "JORDAN NIKE",
+      name: "9. JORDAN NIKE",
       price: 1300.00,
       image: "image 2-9.jpg"
     },
     {
       id: 21,
-      name: "JORDAN NIKE",
+      name: "10. JORDAN NIKE",
       price: 1300.00,
       image: "image 2-10.jpg"
     }
