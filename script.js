@@ -130,43 +130,43 @@ const products = [
       id: 22,
       name: "22. NIKE",
       price: 1300.00,
-      image: "image 2(2).jpg"
+      image: "image 22.jpg"
     },
     {
       id: 11,
       name: "23. NIKE",
       price: 1099.99,
-      image: "image 21(3).jpg"
+      image: "image 23.jpg"
     },
        {
       id: 7,
       name: "24. NIKE AIR",
       price: 1300.00,
-      image: "image 21(4).jpg"
+      image: "image 24.jpg"
     },
     {
       id: 8,
       name: "25. NIKE AIR",
       price: 1300.00,
-      image: "image 21(5).jpg"
+      image: "image 25.jpg"
     },
     {
       id: 9,
       name: "26. NIKE",
       price: 1300.00,
-      image: "image 21(6).jpg"
+      image: "image 26.jpg"
     },
     {
       id: 10,
       name: "27. NIKE",
       price: 1300.00,
-      image: "image 21(7).jpg"
+      image: "image 27.jpg"
     },
     {
       id: 11,
       name: "28. NIKE",
       price: 1099.99,
-      image: "image 21(8).jpg"
+      image: "image 28.jpg"
     },
     {
       id: 12,
