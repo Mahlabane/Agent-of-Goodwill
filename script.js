@@ -146,25 +146,25 @@ const products = [
     },
   {
       id: 22,
-      name: "25. NIKE",
+      name: "25. JORDAN NIKE",
       price: 1300.00,
       image: "image 22.jpg"
     },
     {
       id: 11,
-      name: "26. NIKE",
+      name: "26. JORDAN NIKE",
       price: 1099.99,
       image: "image 23.jpg"
     },
        {
       id: 7,
-      name: "27. NIKE",
+      name: "27. JORDAN NIKE",
       price: 1300.00,
       image: "image 24.jpg"
     },
     {
       id: 11,
-      name: "28. NIKE",
+      name: "28. JORDAN NIKE",
       price: 1099.99,
       image: "image 28.jpg"
     },
