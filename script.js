@@ -1,4 +1,4 @@
-// All your original product data with all images
+ // All your original product data with all images
 const products = [
     {
       id: 1,
@@ -124,7 +124,7 @@ const products = [
       id: 21,
       name: "21. NIKE",
       price: 1300.00,
-      image: "image 21(1).jpg"
+      image: "image 21 (1).jpg"
     },
     {
       id: 10,
