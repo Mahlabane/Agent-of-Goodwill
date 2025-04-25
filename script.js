@@ -171,49 +171,49 @@ const products = [
     {
       id: 12,
       name: "1. JORDAN NIKE",
-      price: 1300.00,
+      price: 1400.00,
       image: "image 2-1.jpg"
     },
     {
       id: 13,
       name: "2. JORDAN NIKE",
-      price: 1300.00,
+      price: 1400.00,
       image: "image 2-2.jpg"
     },
     {
       id: 14,
       name: "3. JORDAN NIKE",
-      price: 1300.00,
+      price: 1400.00,
       image: "image 2-3.jpg"
     },
     {
       id: 15,
       name: "4. JORDAN NIKE",
-      price: 1300.00,
+      price: 1400.00,
       image: "image 2-4.jpg"
     },
     {
       id: 16,
       name: "5. JORDAN NIKE",
-      price: 1300.00,
+      price: 1400.00,
       image: "image 2-5.jpg"
     },
     {
       id: 17,
       name: "6. JORDAN NIKE",
-      price: 1300.00,
+      price: 1400.00,
       image: "image 2-6.jpg"
     },
     {
       id: 18,
       name: "7. JORDAN NIKE",
-      price: 1300.00,
+      price: 1400.00,
       image: "image 2-7.jpg"
     },
     {
       id: 19,
       name: "8. JORDAN NIKE",
-      price: 1300.00,
+      price: 14500.00,
       image: "image 2-8.jpg"
     },
     {
