@@ -63,13 +63,13 @@ const products = [
     {
       id: 11,
       name: "11. NIKE",
-      price: 1099.99,
+      price: 1300.99,
       image: "image 11.jpg"
     },
        {
       id: 12,
       name: "12. NIKE",
-      price: 1300.00,
+      price: 1350.00,
       image: "image 12.jpg"
     },
     {
@@ -93,7 +93,7 @@ const products = [
     {
       id: 16,
       name: "16. NIKE",
-      price: 1099.99,
+      price: 1350.99,
       image: "image 16.jpg"
     },
         {
@@ -111,7 +111,7 @@ const products = [
     {
       id: 19,
       name: "19. NIKE",
-      price: 1300.00,
+      price: 1350.00,
       image: "image 19.jpg"
     },
     {
@@ -123,7 +123,7 @@ const products = [
     {
       id: 21,
       name: "21. NIKE",
-      price: 1300.00,
+      price: 1350.00,
       image: "image 21.jpg"
     },
     {
