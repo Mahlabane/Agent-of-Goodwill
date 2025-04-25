@@ -68,103 +68,103 @@ const products = [
     },
        {
       id: 7,
-      name: "7. NIKE AIR",
+      name: "12. NIKE AIR",
       price: 1300.00,
       image: "image 12.jpg"
     },
     {
       id: 8,
-      name: "8. NIKE AIR",
+      name: "13. NIKE AIR",
       price: 1300.00,
       image: "image 13.jpg"
     },
     {
       id: 9,
-      name: "9. NIKE",
+      name: "14. NIKE",
       price: 1300.00,
       image: "image 14.jpg"
     },
     {
       id: 10,
-      name: "10. NIKE",
+      name: "15. NIKE",
       price: 1300.00,
       image: "image 15.jpg"
     },
     {
       id: 11,
-      name: "11. NIKE",
+      name: "16. NIKE",
       price: 1099.99,
       image: "image 16.jpg"
     },
         {
       id: 5,
-      name: "5. NIKE AIR",
+      name: "17. NIKE AIR",
       price: 1300.00,
       image: "image 17.jpg"
     },
     {
       id: 6,
-      name: "6. NIKE AIR",
+      name: "18. NIKE AIR",
       price: 1300.00,
       image: "image 18.jpg"
     },
     {
       id: 7,
-      name: "7. NIKE AIR",
+      name: "19. NIKE AIR",
       price: 1300.00,
       image: "image 19.jpg"
     },
     {
       id: 8,
-      name: "8. NIKE AIR",
+      name: "20. NIKE AIR",
       price: 1300.00,
       image: "image 20.jpg"
     },
     {
       id: 9,
-      name: "9. NIKE",
+      name: "21. NIKE",
       price: 1300.00,
       image: "image 21(1).jpg"
     },
     {
       id: 10,
-      name: "10. NIKE",
+      name: "22. NIKE",
       price: 1300.00,
-      image: "image 21(2).jpg"
+      image: "image 21 (2).jpg"
     },
     {
       id: 11,
-      name: "11. NIKE",
+      name: "23. NIKE",
       price: 1099.99,
       image: "image 21(3).jpg"
     },
        {
       id: 7,
-      name: "7. NIKE AIR",
+      name: "24. NIKE AIR",
       price: 1300.00,
       image: "image 21(4).jpg"
     },
     {
       id: 8,
-      name: "8. NIKE AIR",
+      name: "25. NIKE AIR",
       price: 1300.00,
       image: "image 21(5).jpg"
     },
     {
       id: 9,
-      name: "9. NIKE",
+      name: "26. NIKE",
       price: 1300.00,
       image: "image 21(6).jpg"
     },
     {
       id: 10,
-      name: "10. NIKE",
+      name: "27. NIKE",
       price: 1300.00,
       image: "image 21(7).jpg"
     },
     {
       id: 11,
-      name: "11. NIKE",
+      name: "28. NIKE",
       price: 1099.99,
       image: "image 21(8).jpg"
     },
