@@ -124,7 +124,7 @@ const products = [
       id: 21,
       name: "21. NIKE",
       price: 1300.00,
-      image: "image 21 (1).jpg"
+      image: "image 21.jpg"
     },
     {
       id: 10,
